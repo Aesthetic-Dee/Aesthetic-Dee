@@ -52,6 +52,20 @@
 ![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 
 
+## 📊 GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aesthetic-Dee&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aesthetic-Dee&layout=compact&theme=radical)
+
+---
+
+## 🖇️ Contribution Graph:
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aesthetic-Dee&theme=github-dark)
+
+---
+
+
 - 👋 Hi, I’m @Aesthetic-Dee
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning JS and frameworks
