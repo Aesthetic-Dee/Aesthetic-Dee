@@ -1,3 +1,8 @@
+## 🌐 Socials:
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+
+
+
 - 👋 Hi, I’m @Aesthetic-Dee
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning JS and frameworks
