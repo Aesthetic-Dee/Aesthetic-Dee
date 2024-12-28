@@ -9,6 +9,12 @@
 [![Discord](https://img.shields.io/badge/Discord-1DA1F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8permAFw)
 [![Slack](https://img.shields.io/badge/Slack-1DA1F2?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/shareDM/zt-2wwdmtzwm-gTz0D2xRQehSROOdarbIHQ)
 
+## Achievements & Certifications:
+
+![Udemy Badge](https://img.shields.io/badge/Udemy-Advanced%20Front--End%20Web%20Development-blue?style=for-the-badge&logo=udemy)
+![freeCodeCamp Badge](https://img.shields.io/badge/freeCodeCamp-JavaScript%20Algorithms%20and%20Data%20Structures-brightgreen?style=for-the-badge&logo=freeCodeCamp)
+![freeCodeCamp Badge](https://img.shields.io/badge/freeCodeCamp-Responsive%20Web%20Design-brightgreen?style=for-the-badge&logo=freeCodeCamp)
+
 ## 💻 Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -76,6 +82,8 @@
 - 📫 How to reach me: You can reach me through my email aestheticdee.mail@gmail.com
 - 😄 Pronouns: lol, i'm just your regular gentleman
 - ⚡ Fun fact: I desire to take part in revolutionizing the web industry along with our society.
+
+- ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!---
 Aesthetic-Dee/Aesthetic-Dee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
