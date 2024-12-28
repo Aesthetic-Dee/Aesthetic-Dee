@@ -1,3 +1,7 @@
+![Custom Banner](https://scontent.flos5-2.fna.fbcdn.net/v/t39.30808-6/365770380_780159457447892_8960261575487111186_n.png?_nc_cat=106&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHna8zDKy6D9sCrpMR4PljK81mpcvCq7nLzWaly8Krucu7U8UwXmHROJpih5t1cSf4FCLyMFDfehMieFbKEUv0y&_nc_ohc=ESgzDCXRQWUQ7kNvgGJdKef&_nc_zt=23&_nc_ht=scontent.flos5-2.fna&_nc_gid=AZadsG0VJDV3RunlsDKefG3&oh=00_AYA7f8_os-LbGstukxerAh-M83DO_zlEc-qew2Pg6FfgeA&oe=677609AE)
+
+
+
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.linkedin.com/in/echezo)
@@ -54,7 +58,6 @@
 
 ## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aesthetic-Dee&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aesthetic-Dee&layout=compact&theme=radical)
 
 ---
