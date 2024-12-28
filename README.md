@@ -1,12 +1,13 @@
 ![Custom Banner](https://scontent.flos5-2.fna.fbcdn.net/v/t39.30808-6/365770380_780159457447892_8960261575487111186_n.png?_nc_cat=106&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHna8zDKy6D9sCrpMR4PljK81mpcvCq7nLzWaly8Krucu7U8UwXmHROJpih5t1cSf4FCLyMFDfehMieFbKEUv0y&_nc_ohc=ESgzDCXRQWUQ7kNvgGJdKef&_nc_zt=23&_nc_ht=scontent.flos5-2.fna&_nc_gid=AZadsG0VJDV3RunlsDKefG3&oh=00_AYA7f8_os-LbGstukxerAh-M83DO_zlEc-qew2Pg6FfgeA&oe=677609AE)
 
+
 > _"The aesthetic value of the painting is highly due to its balance of colors and composition."_  
 
 
-## 🌐 Socials:
+## 🌐 Connect with Me:
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-aesthetic-dees-projects.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/Linkedin-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.linkedin.com/in/echezo)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=About.me)](https://portfolio-aesthetic-dees-projects.vercel.app/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/echezo)
 [![Telegram](https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Echelon_V1)
 [![Discord](https://img.shields.io/badge/Discord-1DA1F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8permAFw)
 [![Slack](https://img.shields.io/badge/Slack-1DA1F2?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/shareDM/zt-2wwdmtzwm-gTz0D2xRQehSROOdarbIHQ)
@@ -66,9 +67,13 @@
 ![freeCodeCamp Badge](https://img.shields.io/badge/freeCodeCamp-Responsive%20Web%20Design-brightgreen?style=for-the-badge&logo=freeCodeCamp)
 
 ## 🌟 About Me
-- 🔭 Currently working on: [ChatLink](https://github.com/your-project)
-- 🌱 Learning: Machine Learning and Web 3.0
-- 💡 Fun Fact: I debug better with coffee ☕.
+
+- 😄 Pronouns: lol, i'm just your regular gentleman.
+- 👀 interests: Front-end development, AI and Robotics.
+- 💞️ Collaboration: Looking to collaborate on projects UI and Client-side development.
+- 💡 Fun Fact: I desire to take part in revolutionizing the web industry along with our society.
+- 📫 How to reach me: You can reach me through my email mailto:aestheticdee.mail@gmail.com
+
 
 ## 📊 GitHub Stats:
 
@@ -81,18 +86,15 @@
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aesthetic-Dee&theme=github-dark)
 
 ---
-## 🌱 Currently Learning
-![Web3](https://img.shields.io/badge/Web3-%2305A783.svg?style=for-the-badge&logo=web3.js&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23000000.svg?style=for-the-badge&logo=solidity&logoColor=white)
+
+## 🌱 Currently Learning:
+
+![Web3 Badge](https://img.shields.io/badge/Web3-Blockchain-blue?style=for-the-badge&logo=web3.js)
+![Solidity Badge](https://img.shields.io/badge/Solidity-Smart%20Contracts-gray?style=for-the-badge&logo=solidity)
 
 
-- 👋 Hi, I’m @Aesthetic-Dee
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning JS and frameworks
-- 💞️ I’m looking to collaborate on projects UI and Client-side development
-- 📫 How to reach me: You can reach me through my email aestheticdee.mail@gmail.com
-- 😄 Pronouns: lol, i'm just your regular gentleman
-- ⚡ Fun fact: I desire to take part in revolutionizing the web industry along with our society.
+
+
 
 - ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
