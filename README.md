@@ -5,9 +5,8 @@
 
 
 ## 🌐 Connect with Me:
-
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=About.me)](https://portfolio-aesthetic-dees-projects.vercel.app/)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/echezo)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge)](https://portfolio-aesthetic-dees-projects.vercel.app/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/echezo)
 [![Telegram](https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Echelon_V1)
 [![Discord](https://img.shields.io/badge/Discord-1DA1F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8permAFw)
 [![Slack](https://img.shields.io/badge/Slack-1DA1F2?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/shareDM/zt-2wwdmtzwm-gTz0D2xRQehSROOdarbIHQ)
