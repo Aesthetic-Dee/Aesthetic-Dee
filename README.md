@@ -1,19 +1,16 @@
 ![Custom Banner](https://scontent.flos5-2.fna.fbcdn.net/v/t39.30808-6/365770380_780159457447892_8960261575487111186_n.png?_nc_cat=106&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHna8zDKy6D9sCrpMR4PljK81mpcvCq7nLzWaly8Krucu7U8UwXmHROJpih5t1cSf4FCLyMFDfehMieFbKEUv0y&_nc_ohc=ESgzDCXRQWUQ7kNvgGJdKef&_nc_zt=23&_nc_ht=scontent.flos5-2.fna&_nc_gid=AZadsG0VJDV3RunlsDKefG3&oh=00_AYA7f8_os-LbGstukxerAh-M83DO_zlEc-qew2Pg6FfgeA&oe=677609AE)
 
+> _"The aesthetic value of the painting is highly due to its balance of colors and composition."_  
 
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.linkedin.com/in/echezo)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-aesthetic-dees-projects.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.linkedin.com/in/echezo)
 [![Telegram](https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Echelon_V1)
 [![Discord](https://img.shields.io/badge/Discord-1DA1F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8permAFw)
 [![Slack](https://img.shields.io/badge/Slack-1DA1F2?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/shareDM/zt-2wwdmtzwm-gTz0D2xRQehSROOdarbIHQ)
 
-## Achievements & Certifications:
-
-![Udemy Badge](https://img.shields.io/badge/Udemy-Advanced%20Front--End%20Web%20Development-blue?style=for-the-badge&logo=udemy)
-![freeCodeCamp Badge](https://img.shields.io/badge/freeCodeCamp-JavaScript%20Algorithms%20and%20Data%20Structures-brightgreen?style=for-the-badge&logo=freeCodeCamp)
-![freeCodeCamp Badge](https://img.shields.io/badge/freeCodeCamp-Responsive%20Web%20Design-brightgreen?style=for-the-badge&logo=freeCodeCamp)
 
 ## 💻 Tech Stack:
 
@@ -62,6 +59,17 @@
 ![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 
 
+## Achievements & Certifications:
+
+![Udemy Badge](https://img.shields.io/badge/Udemy-Advanced%20Front--End%20Web%20Development-blue?style=for-the-badge&logo=udemy)
+![freeCodeCamp Badge](https://img.shields.io/badge/freeCodeCamp-JavaScript%20Algorithms%20and%20Data%20Structures-brightgreen?style=for-the-badge&logo=freeCodeCamp)
+![freeCodeCamp Badge](https://img.shields.io/badge/freeCodeCamp-Responsive%20Web%20Design-brightgreen?style=for-the-badge&logo=freeCodeCamp)
+
+## 🌟 About Me
+- 🔭 Currently working on: [ChatLink](https://github.com/your-project)
+- 🌱 Learning: Machine Learning and Web 3.0
+- 💡 Fun Fact: I debug better with coffee ☕.
+
 ## 📊 GitHub Stats:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aesthetic-Dee&layout=compact&theme=radical)
@@ -73,6 +81,9 @@
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aesthetic-Dee&theme=github-dark)
 
 ---
+## 🌱 Currently Learning
+![Web3](https://img.shields.io/badge/Web3-%2305A783.svg?style=for-the-badge&logo=web3.js&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23000000.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
 
 - 👋 Hi, I’m @Aesthetic-Dee
