@@ -3,6 +3,7 @@
 
 > _"The aesthetic value of the painting is highly due to its balance of colors and composition."_  
 
+---
 
 ## 🌐 Connect with Me:
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge)](https://portfolio-aesthetic-dees-projects.vercel.app/)
@@ -11,6 +12,9 @@
 [![Discord](https://img.shields.io/badge/Discord-1DA1F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8permAFw)
 [![Slack](https://img.shields.io/badge/Slack-1DA1F2?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/shareDM/zt-2wwdmtzwm-gTz0D2xRQehSROOdarbIHQ)
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F73E3E&width=435&lines=Frontend+Engineer+%7C+JavaScript+Lover;Building+with+React%2C+Web3%2C+and+More!)
+
+---
 
 ## 💻 Tech Stack:
 
@@ -58,12 +62,18 @@
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 
+---
 
 ## Achievements & Certifications:
 
 ![Udemy Badge](https://img.shields.io/badge/Udemy-Advanced%20Front--End%20Web%20Development-blue?style=for-the-badge&logo=udemy)
 ![freeCodeCamp Badge](https://img.shields.io/badge/freeCodeCamp-JavaScript%20Algorithms%20and%20Data%20Structures-brightgreen?style=for-the-badge&logo=freeCodeCamp)
 ![freeCodeCamp Badge](https://img.shields.io/badge/freeCodeCamp-Responsive%20Web%20Design-brightgreen?style=for-the-badge&logo=freeCodeCamp)
+
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Aesthetic-Dee&theme=onestar&no-frame=true&margin-w=10)
+
+---
 
 ## 🌟 About Me
 
@@ -73,9 +83,11 @@
 - 💡 Fun Fact: I desire to take part in revolutionizing the web industry along with our society.
 - 📫 How to reach me: You can reach me through my email mailto:aestheticdee.mail@gmail.com
 
+---
 
 ## 📊 GitHub Stats:
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Aesthetic-Dee&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aesthetic-Dee&layout=compact&theme=radical)
 
 ---
@@ -92,10 +104,7 @@
 ![Solidity Badge](https://img.shields.io/badge/Solidity-Smart%20Contracts-gray?style=for-the-badge&logo=solidity)
 
 
-
-
-
-- ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!---
 Aesthetic-Dee/Aesthetic-Dee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
